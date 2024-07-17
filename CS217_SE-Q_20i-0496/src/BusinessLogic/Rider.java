@@ -1,12 +1,4 @@
 package BusinessLogic;
-/*
- * By: 													OOP Final Semester Project: Food On Wheels
- * Khursheed Alam Khan --> 20i-0496
- * Muhammad Abdullah   --> 20i-2311
- * 
- * Section: SE-Q
- */
-
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
