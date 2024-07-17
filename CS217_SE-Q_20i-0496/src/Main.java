@@ -1,12 +1,3 @@
-/*
- * By: 													OOP Final Semester Project: Food On Wheels
- * Khursheed Alam Khan --> 20i-0496
- * Muhammad Abdullah   --> 20i-2311
- * 
- * Section: SE-Q
- */
-
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -72,12 +63,7 @@ public class Main
 		
 		
 		System.out.println("------------------------------------------------------------------------");
-		System.out.println("|            Welcome to Two Brother's Food on Wheels Restaurant         |");
-		System.out.println("|                                                                       |");
-		System.out.println("|                            Made By:                                   |");
-		System.out.println("|                                                                       |");
-		System.out.println("|                  . Khursheed Alam Khan 20i-0496                       |");
-		System.out.println("|                  . Muhammad Abdullah   20i-2311                       |");
+		System.out.println("|            Welcome to Food on Wheels Restaurant                       |");
 		System.out.println("|                                                                       |");
 		System.out.println("|                                                                       |");
 		System.out.println("|      *Note: Files are stored in the same directory of JAVA code       |");
